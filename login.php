@@ -53,7 +53,7 @@ $_SESSION["strUserID"] = $objResult["adminh_id"];
 	<div style="padding-left:10px;padding-right:10px">
 		
         <div align="center">
-      <img src="pic/welcome1.png" width="240" height="120"> </div>
+      <img src="pic/welcome.png" width="240" height="120"> </div>
 		<div data-role="fieldcontain" align="center">
 			<font size="4" color="#990000"><label for="name">ชื่อผู้ใช้ : </label><? echo $objResult["adminh_name"];?></font>
 		</div>

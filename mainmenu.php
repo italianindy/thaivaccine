@@ -16,7 +16,7 @@
 	</div>
 	<div data-role="content" >
     <div align="center">
-      <img src="pic/emphome.png" width="120" height="120"> </div>
+      <img src="pic/logovaccine.png" width="120" height="120"> </div>
        <font size="4"> <ul data-inset="true" data-role="listview" data-theme="b">
 		  <li><a href="http://112.121.150.67/thaivaccine/popuplogin.php" data-rel="dialog" data-transition="pop">เข้าสู่ระบบ</a></li>
             <li><a href="http://www.osstec.co.th">เยี่ยมชมเว็บไซต์</a></li>

@@ -48,7 +48,7 @@ $objResult = mysql_fetch_array($objQuery);
 		<div style="padding-left:10px;padding-right:10px">
  
 <div align="right">
-      <img src="pic/datastud.png" width="250" height="80"> 			</div>
+      <img src="pic/temperature.png" width="250" height="80"> 			</div>
  
  
 	<div data-role="fieldcontain">
